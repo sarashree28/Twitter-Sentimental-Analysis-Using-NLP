@@ -2,6 +2,8 @@
 Objective: The goal of Twitter sentiment analysis using Natural Language Processing (NLP) is to analyze the emotions, opinions, or attitudes expressed in tweets. This is commonly used to understand public sentiment towards a specific topic, product, event, or individual by categorizing tweets as positive, negative, or neutral.
 
 Key Steps in the Process:
+
+
 Data Collection:
 
 Kaggle: Using the Kaggle dataset API to collect tweets related to specific keywords, hashtags, or accounts. 
